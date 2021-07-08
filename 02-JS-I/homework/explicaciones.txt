@@ -1,0 +1,5 @@
+Variables. Lugares donde almacenar algún tipo de información como números, nombres, palabras
+Strings. Cosas donde uno puede almacenar un texto como un nombre, numero, cuento
+Funciones (argumentos, return). Sirven para guardar una copia de lo que se debe hacer con algo números, textos
+Declaraciones if. En un programa de computadora nos permite tomar decisiones en caso aparezca algo que nos interesa
+Valores booleanos (true, false). Son verdadero o falso
