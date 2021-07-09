@@ -1,0 +1,2 @@
+En un programa de javascript for nos permite realizar un mismo procedimiento varias veces
+&&, ||, ! Nos permiten tener condiciones complejas con varias expresiones a evaluar en simultaneo
